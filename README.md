@@ -22,9 +22,9 @@ sub Get.Games {
 sub Get.Coding {
     return [
         "Perl",
-	"Java JavaScript",
+	"Java, JavaScript",
  	"SQL",
-        "C# C C++",
+        "C#, C, C++",
         "GoLang",			
         "Lisp",
         "Python"					
