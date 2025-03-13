@@ -8,10 +8,11 @@
 
 <img src = "https://img.shields.io/badge/Discord-toxic.vibezz-blue" />
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://api.statusbadges.me/badge/status/1235746226683646002)
+![playing](https://api.statusbadges.me/badge/playing/1235746226683646002)
+![vscode](https://api.statusbadges.me/badge/vscode/1235746226683646002)
+![intellij](https://api.statusbadges.me/badge/intellij/1235746226683646002)
+[![spotify](https://api.statusbadges.me/badge/spotify/1235746226683646002)](https://api.statusbadges.me/openspotify/1235746226683646002)
 
 ## Skills 🔮
 [![My Skills](https://skillicons.dev/icons?i=perl,java,kotlin,nodejs,js,sqlite,rust,c,cs,cpp,crystal,ts,go,lua,py&perline=6)](https://skillicons.dev)
