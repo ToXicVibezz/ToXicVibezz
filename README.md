@@ -1,25 +1,6 @@
+♔-_-ㄒㄖ乂丨匚 -_-♔
 
-sub Get.Name 
-    return {
-		;
-}
-
-sub Get.Accounts {
-    return {
-        "discord" => "sofakingwetodddid",
-        "gta" => "GMoneyThatSavage"
-    };
-}
-
-sub Get.Games {
-    return [
-        "GTA V",
-        "OSRS",
-        "Sims 4"
-    ];
-}
-
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) => "♔-_-ㄒㄖ乂丨匚 -_-♔", "toxic.vibezz"
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) ===> "toxic.vibezz"
 
 [![My Skills](https://skillicons.dev/icons?i=perl,java,js,sqlite,rust,c,cs,cpp,crystal,blender,ts,go,lua,py)](https://skillicons.dev)
 
