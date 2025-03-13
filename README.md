@@ -19,14 +19,4 @@ sub Get.Games {
     ];
 }
 
-sub Get.Coding {
-    return [
-        "Perl",
-	"Java, JavaScript",
- 	"SQL",
-        "C#, C, C++",
-        "GoLang",			
-        "Lisp",
-        "Python"					
-    ];
-}
+[![My Skills](https://skillicons.dev/icons?i=perl,java,js,sqlite,rust,c,cs,cpp,crystal,blender,ts,go,lua,py)](https://skillicons.dev)
