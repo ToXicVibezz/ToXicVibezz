@@ -1,7 +1,7 @@
 
 sub Get.Name 
     return {
-		"ㄒㄖ乂丨匚";
+		;
 }
 
 sub Get.Accounts {
@@ -19,7 +19,7 @@ sub Get.Games {
     ];
 }
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) => "toxic.vibezz"
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) => "♔-_-ㄒㄖ乂丨匚 -_-♔", "toxic.vibezz"
 
 [![My Skills](https://skillicons.dev/icons?i=perl,java,js,sqlite,rust,c,cs,cpp,crystal,blender,ts,go,lua,py)](https://skillicons.dev)
 
