@@ -1,4 +1,8 @@
 # ♔-_-ㄒㄖ乂丨匚 -_-♔🐱‍👤
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&duration=3500&font=Bahnschrift&lines=Hiiiuuu+I'm+ToXic;My+Favorite+Thing+Is+Playing+GTAV;In+My+Freetime+I+Do+A+Bit+Of+Coding;Game+Development+|+Reverse+Engineering;Discord+Bots+|+Discord+Apps+|+Discord+Plugins;C2+API+|+Design+|+Development+|+Management)](https://git.io/typing-svg)
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/windows 10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logoColor=white" />
